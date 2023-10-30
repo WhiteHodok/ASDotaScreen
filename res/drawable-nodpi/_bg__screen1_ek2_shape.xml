@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- _bg__screen1_ek2 from your XD file. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+	android:width="375dp"
+	android:height="1226dp"
+	android:viewportWidth="380"
+	android:viewportHeight="1232" >
+	<path android:fillColor="#050B18"  android:pathData="M1,1z" />
+</vector>
+
