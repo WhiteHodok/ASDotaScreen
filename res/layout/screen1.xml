@@ -1,0 +1,276 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		screen1
+	 *	@date 		Monday 30th of October 2023 06:08:43 PM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/screen1" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_screen1_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__screen1_ek2"
+					android:background="@drawable/_bg__screen1_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="375dp"
+					android:layout_height="1226dp" />
+
+
+				<RelativeLayout android:id="@+id/mask_group"
+					android:layout_marginTop="-16.64dp"
+					android:layout_marginStart="-126dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/_bg__mask_group_ek1"
+						android:background="@drawable/_bg__mask_group_ek1_shape"
+						 android:layout_marginStart="126dp"
+						android:layout_marginTop="17dp"
+						android:layout_width="628dp"
+						android:layout_height="368.07dp" />
+
+					<ImageView android:id="@+id/image_16"
+						android:src="@drawable/image_16"
+						android:contentDescription="image_16"
+						 android:layout_marginStart="126dp"
+						android:layout_marginTop="17dp"
+						android:layout_width="375dp"
+						android:layout_height="368.07dp" />
+
+					<View   android:id="@+id/rectangle_24"
+						android:background="@drawable/rectangle_24_shape"
+						 android:layout_marginStart="126dp"
+						android:layout_marginTop="17dp"
+						android:layout_width="375dp"
+						android:layout_height="340dp" />
+
+				</RelativeLayout>
+
+				<View   android:id="@+id/rectangle_22"
+					android:background="@drawable/rectangle_22_shape"
+					 android:layout_marginStart="-1dp"
+					android:layout_marginTop="295dp"
+					android:layout_width="375dp"
+					android:layout_height="930dp" />
+
+
+				<RelativeLayout android:id="@+id/group_107"
+					android:layout_marginTop="409dp"
+					android:layout_marginStart="24dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/_bg__group_107_ek1"
+						android:background="@drawable/_bg__group_107_ek1_shape"
+						 android:layout_marginStart="-24dp"
+						android:layout_marginTop="-409dp"
+						android:layout_width="327dp"
+						android:layout_height="76dp" />
+
+
+					<RelativeLayout android:id="@+id/group_106"
+						android:layout_marginTop="0dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View   android:id="@+id/_bg__group_106_ek1"
+							android:background="@drawable/_bg__group_106_ek1_shape"
+							 android:layout_marginStart="-24dp"
+							android:layout_marginTop="-409dp"
+							android:layout_width="327dp"
+							android:layout_height="76dp" />
+
+						<TextView android:id="@+id/dota_2_is_a_multiplayer_online_battle_arena__moba__game_which_has_two_teams_of_five_players_compete_to_collectively_destroy_a_large_structure_defended_by_the_opposing_team_known_as_the__ancient___whilst_defending_their_own_"
+							android:textSize="12sp"
+							android:textColor="@color/dota_2_is_a_multiplayer_online_battle_arena__moba__game_which_has_two_teams_of_five_players_compete_to_collectively_destroy_a_large_structure_defended_by_the_opposing_team_known_as_the__ancient___whilst_defending_their_own__color"
+							android:layout_marginLeft="0dp"
+							android:layout_marginTop="0dp"
+							android:layout_width="339.2dp"
+							android:layout_height="79.2dp"
+							android:text="@string/dota_2_is_a_multiplayer_online_battle_arena__moba__game_which_has_two_teams_of_five_players_compete_to_collectively_destroy_a_large_structure_defended_by_the_opposing_team_known_as_the__ancient___whilst_defending_their_own__string"
+							 />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/group_95"
+					android:layout_marginTop="265dp"
+					android:layout_marginStart="21dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/_bg__group_95_ek1"
+						android:background="@drawable/_bg__group_95_ek1_shape"
+						 android:layout_marginStart="-21dp"
+						android:layout_marginTop="-265dp"
+						android:layout_width="88dp"
+						android:layout_height="95dp" />
+
+
+					<RelativeLayout android:id="@+id/group_88"
+						android:layout_marginTop="0dp"
+						android:layout_marginStart="0dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						>
+
+						<View   android:id="@+id/_bg__group_88_ek1"
+							android:background="@drawable/_bg__group_88_ek1_shape"
+							 android:layout_marginStart="-21dp"
+							android:layout_marginTop="-265dp"
+							android:layout_width="88dp"
+							android:layout_height="95dp" />
+
+
+						<RelativeLayout android:id="@+id/group_83"
+							android:layout_marginTop="0dp"
+							android:layout_marginStart="0dp"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							>
+
+							<View   android:id="@+id/_bg__group_83_ek1"
+								android:background="@drawable/_bg__group_83_ek1_shape"
+								 android:layout_marginStart="-21dp"
+								android:layout_marginTop="-265dp"
+								android:layout_width="88dp"
+								android:layout_height="95dp" />
+
+
+							<RelativeLayout android:id="@+id/group_82"
+								android:layout_marginTop="0dp"
+								android:layout_marginStart="0dp"
+								android:layout_width="wrap_content"
+								android:layout_height="wrap_content"
+								>
+
+								<View   android:id="@+id/_bg__group_82_ek1"
+									android:background="@drawable/_bg__group_82_ek1_shape"
+									 android:layout_marginStart="-21dp"
+									android:layout_marginTop="-265dp"
+									android:layout_width="88dp"
+									android:layout_height="95dp" />
+
+								<View   android:id="@+id/rectangle_25"
+									android:background="@drawable/rectangle_25_shape"
+									 android:layout_marginStart="6dp"
+									android:layout_marginTop="20dp"
+									android:layout_width="76dp"
+									android:layout_height="75dp" />
+
+								<View   android:id="@+id/rectangle_27"
+									android:background="@drawable/rectangle_27_shape"
+									 android:layout_marginStart="0dp"
+									android:layout_marginTop="0dp"
+									android:layout_width="88dp"
+									android:layout_height="88dp" />
+
+								<View   android:id="@+id/rectangle_26"
+									android:background="@drawable/rectangle_26_shape"
+									 android:layout_marginStart="2dp"
+									android:layout_marginTop="2dp"
+									android:layout_width="84.13dp"
+									android:layout_height="84.13dp" />
+
+							</RelativeLayout>
+
+							<ImageView android:id="@+id/image_17"
+								android:src="@drawable/image_17"
+								android:contentDescription="image_17"
+								 android:layout_marginStart="17dp"
+								android:layout_marginTop="17dp"
+								android:layout_width="54dp"
+								android:layout_height="54dp" />
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+				<View   android:id="@+id/rectangle_31"
+					android:background="@drawable/rectangle_31_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="375dp"
+					android:layout_height="126dp" />
+
+
+				<RelativeLayout android:id="@+id/group_96"
+					android:layout_marginTop="1127dp"
+					android:layout_marginStart="24dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/_bg__group_96_ek1"
+						android:background="@drawable/_bg__group_96_ek1_shape"
+						 android:layout_marginStart="-24dp"
+						android:layout_marginTop="-1127dp"
+						android:layout_width="327dp"
+						android:layout_height="70dp" />
+
+					<View   android:id="@+id/rectangle_32"
+						android:background="@drawable/rectangle_32_shape"
+						 android:alpha="0.21999999880791"
+						 android:layout_marginStart="7dp"
+						android:layout_marginTop="19dp"
+						android:layout_width="311dp"
+						android:layout_height="50dp" />
+
+					<View   android:id="@+id/rectangle_33"
+						android:background="@drawable/rectangle_33_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="327dp"
+						android:layout_height="64dp" />
+
+					<TextView android:id="@+id/install"
+						android:textStyle="bold"
+						android:textSize="20sp"
+						android:textColor="@color/_bg__screen1_ek2_color"
+						android:layout_marginLeft="134dp"
+						android:layout_marginTop="20dp"
+						android:layout_width="76dp"
+						android:layout_height="30dp"
+						android:text="@string/install_string"
+						 />
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

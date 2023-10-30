@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- rectangle_27 from your XD file. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+	android:width="88dp"
+	android:height="88dp"
+	android:viewportWidth="93"
+	android:viewportHeight="94" >
+	<path android:fillColor="#1F2430"  android:pathData="M-20,-264z" />
+</vector>
+

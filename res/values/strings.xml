@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- screen1 strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="dota_2_is_a_multiplayer_online_battle_arena__moba__game_which_has_two_teams_of_five_players_compete_to_collectively_destroy_a_large_structure_defended_by_the_opposing_team_known_as_the__ancient___whilst_defending_their_own__string">Dota 2 is a multiplayer online battle arena (MOBA) game which has two teams of five players compete to collectively destroy a large structure defended by the opposing team known as the "Ancient", whilst defending their own.</string>
+	<string name="install_string">Install</string>
+</resources>
